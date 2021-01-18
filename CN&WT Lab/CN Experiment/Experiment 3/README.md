@@ -1,4 +1,4 @@
-## Experiment 3
+## Experiment3
 
 ## Aim of the Experiment
 Write a C program to develop a simple data link layer that performs the flow control using the sliding window protocol,
