@@ -1,6 +1,6 @@
 <?php
 
-$string = "Akshitha";  
+$string = "Sneha";  
 echo "Reverse string of $string is " .strrev ( $string );  
 
 ?>
